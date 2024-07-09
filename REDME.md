@@ -1,4 +1,4 @@
-# CAlculator
+# Colorcode
  it is a JavaScript Colorcode. and it is based on JavaScript.
  this colorcode create by Amit999github.
 
